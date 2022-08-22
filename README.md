@@ -2,7 +2,7 @@
 
 requirement: >= macOS 11
 
-a simple client to display battery quantity for hackintosh(seems macintosh never need this), which based on CurrentCapacity & MaxCapacity from IOReg.
+a simple client to display battery for hackintosh, which based on CurrentCapacity & MaxCapacity from IOReg.
 
 this app equals to result below (result = CurrentCapacity / MaxCapacity)
 
